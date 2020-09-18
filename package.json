@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-sequelize-many-to-many",
+  "version": "1.0.0",
+  "description": "Node.js Sequelize Many to Many Association",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "sequelize",
+    "many-to-many",
+    "associations",
+    "relationship"
+  ],
+  "author": "normala",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.5"
+  }
+}
